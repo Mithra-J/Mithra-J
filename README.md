@@ -1,45 +1,102 @@
 # Hi there, I'm Mithra 👋
 
-I'm a **pre-final year IT student** passionate about coding, tech, and creating impactful projects. I love learning new things and collaborating with others to solve real-world problems.
+I'm a **pre-final year IT student** passionate about building **interactive web applications and practical tools**. I specialize in creating **clean, user-friendly solutions** that solve real-world problems efficiently.
 
 ---
 
-### 🌱 Currently Learning
-- Full-stack web development (MERN Stack)
-- AI & Machine Learning
-- Data Science & Analytics
-- Open-source collaboration
+## 🌟 Featured Projects
+
+### 🎯 [Portfolio Website](https://mithu06portfolio.neocities.org/)
+**Showcase your work in style**
+- Modern, responsive design with smooth animations
+- Built with HTML5, CSS3, JavaScript
+- Fully functional across devices
+
+### 🔢 [Fraction Calculator](https://mithu06portfolio.neocities.org/FRA/)
+**Complex fraction operations made easy**
+- Handles addition, subtraction, multiplication, and division
+- Real-time results with an intuitive interface
+- Ideal for educational purposes and daily computations
+
+### ✅ [Interactive Checklist](https://mithu06portfolio.neocities.org/Checklist/)
+**Dynamic productivity tool**
+- Add, edit, and delete tasks seamlessly
+- Persistent data with local storage
+- Clean UI for effortless task management
+
+### 🎲 [Josephus Problem Solver](https://mithu06portfolio.neocities.org/Josephus/)
+**Algorithm visualization made interactive**
+- Step-by-step simulation of the Josephus problem
+- Educational tool for algorithm learning
+- Engaging, visual interface
 
 ---
 
-### 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 💻 Tech Stack & Expertise
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Core Strengths
+- **Interactive Web Applications**
+- **Algorithm Implementation**
+- **User-Centric Design**
+- **Clean, Maintainable Code**
 
 ---
 
-### 📊 GitHub Stats
-![Mithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=radical&count_private=true)
+## 📊 GitHub Stats
+
+![Mithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithra-J&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mithra-j-7940a12a2/)
-- [Email](mailto:your-email@example.com)
+## 🚀 What I Bring to the Table
+
+- **Problem-Solving:** Algorithm simulations, mathematical tools, practical apps  
+- **User-Centric Design:** Smooth, intuitive interfaces  
+- **Project Delivery:** Functional, deployable, and interactive applications  
 
 ---
 
-### ⚡ Fun Fact
-I'm a **late-night coder** — not nocturnal, just a night owl with a keyboard 🦉⌨️
+## 🌱 Currently Learning
+
+- **React.js & Modern Frontend Frameworks**  
+- **Backend Development with Node.js**  
+- **Database & API Integration**  
 
 ---
 
-### 🚀 My Goals
-- Build impactful projects that solve real-world problems  
-- Contribute to open-source  
-- Master AI and Full-stack development before graduation
+## 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-mithraacct@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithraacct@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithra-j-7940a12a2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mithu06portfolio.neocities.org/)
+
+---
+
+> *"Build solutions that work beautifully, teach something new, and deliver real value."*
+
+---
+
+### ⚡ Goals This Year
+- Enhance existing projects with advanced features  
+- Learn backend development & full-stack integration  
+- Contribute to open-source libraries  
+- Build complex, practical applications  
+
+---
+
+### 🔗 Quick Project Showcase
+- [Portfolio](https://mithu06portfolio.neocities.org/)  
+- [Fraction Calculator](https://mithu06portfolio.neocities.org/FRA/)  
+- [Interactive Checklist](https://mithu06portfolio.neocities.org/Checklist/)  
+- [Josephus Solver](https://mithu06portfolio.neocities.org/Josephus/)  
+
+---
+
+**Let's turn complex problems into elegant solutions!**
