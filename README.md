@@ -73,9 +73,9 @@ I'm a **pre-final year IT student** passionate about building **interactive web 
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-mithraacct@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithraacct@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithra-j-7940a12a2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mithu06portfolio.neocities.org/)
+[![Email](https://img.shields.io/badge/Email-mithraacct@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithraacct@gmail.com)//
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithra-j-7940a12a2/)//
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mithu06portfolio.neocities.org/)//
 
 ---
 
