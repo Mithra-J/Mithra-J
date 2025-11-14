@@ -1,82 +1,88 @@
-<h1 align="center">Hi, I'm Mithra 👋</h1>
+<div align="center">
 
-<p align="center">
-  ⚡ B.Tech IT Student • Developer • AI & Data Science Enthusiast  
-</p>
+# ✨ Hey, I'm **Mithra**  
+### 💻 IT Student • Web Developer • AI & Data Enthusiast  
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true" width="55%"/>
 
-## 🌸 About Me  
-I'm an IT student who loves building clean, interactive, and user-friendly applications.  
-I enjoy exploring different areas of tech—from frontend development to AI—and turning ideas into working real-world projects.
-
-I believe in **learning by building**, experimenting with new tools, and improving a little every single day.  
-Currently, I'm focusing on enhancing my full-stack skills while also diving deeper into AI/ML and data analytics.
+</div>
 
 ---
 
-## 🚀 What I'm Currently Focusing On  
-- Strengthening MERN stack development  
-- Practicing SQL + DSA (50 Days SQL Challenge + LeetCode daily)  
-- Building Chrome extensions & small automation tools  
-- Experimenting with AI/ML models and datasets  
-- Creating dashboards using Power BI / Tableau  
+## 🌟 About Me  
+I'm an IT engineering student who loves building **simple, clean, and useful** digital experiences.  
+I enjoy experimenting with web development, AI/ML, dashboards, and automation tools.  
+My work blends creativity, problem-solving, and consistency.
+
+✨ I believe in *"learning by building"* — small projects, small steps, every day.
 
 ---
 
-## 💡 What I'm Good At  
-- Creating clean, modern front-end interfaces  
-- Making simple ideas into actual working mini-projects  
-- Learning new tools extremely fast  
-- Managing college, learning, and side projects together  
-- Building practical, real-world usable tools  
+## 🚀 What I’m Doing Right Now  
+- Sharpening **MERN stack** development  
+- Solving SQL + DSA challenges on LeetCode  
+- Exploring **AI/ML fundamentals**  
+- Creating dashboards using **Power BI / Tableau**  
+- Experimenting with **Chrome extensions** & micro-tools  
 
 ---
 
-## 💼 Experience Snapshot  
-Even though I’m still a student, I’ve already worked on:  
-- **Web development for internal tools (Laravel-based)**  
-- **Product marketing + digital listings (Google My Business, NowFloats, IndiaMART)**  
-- **Creating dashboards, data sheets, banners, and UI designs**  
-- **Building personal and academic web projects & CRUD applications**  
-
-These experiences shaped both my tech skills and understanding of real working environments.
+## 🧩 Strengths  
+- Clean UI design sense  
+- Fast learner & self-taught builder  
+- Strong fundamentals in DBMS, SQL, Java  
+- Consistent problem-solver  
+- Able to turn ideas → working projects quickly  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-Java • C • Python • SQL • JavaScript  
+<div align="center">
 
-**Frontend:**  
-HTML • CSS • JavaScript • React (learning)  
+### **Languages**
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
 
-**Backend & Database:**  
-Node.js • Express • MySQL • MongoDB  
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-**Tools:**  
-Git • VS Code • Canva • Power BI • Tableau  
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
----
+### **Database**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-## 🧩 What I Like Building  
-- Small utilities that make life easier  
-- Productivity tools  
-- Web interfaces that look aesthetic yet simple  
-- AI-based apps that solve real problems  
-- Dashboards that explain data clearly  
+### **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=shades-of-purple" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithra-J&theme=shades-of-purple" height="160" />
-</p>
+## 📊 Stats & Activity  
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mithra-J&theme=midnight-purple&hide_border=true" width="55%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithra-J&layout=compact&theme=midnight-purple&hide_border=true" width="40%"/>
+
+</div>
+
+---
+
+## 🎨 What I Like Building  
+- Beautiful, minimal web interfaces  
+- AI-powered mini tools  
+- Dashboards that tell a story  
+- Chrome extensions that boost productivity  
+- Small but impactful real-world utilities  
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithra-j)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://mithu06portfolio.neocities.org/)
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithra-j)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://mithu06portfolio.neocities.org/)
+
+</div>
