@@ -48,33 +48,11 @@ I focus on **Full-Stack Development, AI/ML, and Data Science**, and enjoy turnin
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mithra-J&theme=matrix&no-frame=true&no-bg=false&margin-w=4"/>
-</p>
-
----
-
 ## 🚀 Currently Working On  
-- **AI Interview Coach** (React + Node.js + MongoDB)  
-- **Accident Analysis Dashboard** using Tableau / Power BI  
-- **Chrome Extension Projects** (Notifications, Productivity, Task Automation)
+- **AI Interview Coach (React + Node.js + MongoDB)**  
+- **Android app(StayNotified)**  
+- **Accident Analysis Dashboard (Power BI / Tableau)**  
 
 ---
 
-## 🎯 Goals This Year  
-- Build and publish a **full-stack MERN application** solving a real-world problem  
-- Contribute to **open-source** projects  
-- Publish a **research-oriented project** in AI/ML  
-- Strengthen in **Data Science & Machine Learning**  
-
----
-
-## ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-> 🌟 *“Build solutions that work beautifully, teach something new, and deliver real value.”*
+> 🌟 *“Striving to learn, build, and create value with technology.”*
