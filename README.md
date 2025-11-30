@@ -23,13 +23,13 @@ I'm a passionate IT Engineering student who loves building **digital solutions t
 <div align="center">
 
 ### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,html,css,c" />
 
 ### **Databases & Tools**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,firebase" />
 
 ### **Currently Exploring**
-<img src="https://skillicons.dev/icons?i=tailwind,aws,docker,redux" />
+<img src="https://skillicons.dev/icons?i=tailwind,aws" />
 
 </div>
 
@@ -52,8 +52,7 @@ I'm a passionate IT Engineering student who loves building **digital solutions t
 - 🔭 **Full Stack Development** - Mastering MERN stack
 - 🧠 **AI/ML Projects** - Building intelligent applications  
 - 📊 **Data Visualization** - Creating insightful dashboards
-- ⚡ **Browser Extensions** - Developing productivity tools
-- 💡 **Problem Solving** - Daily DSA practice
+- 💡 **Problem Solving** - Daily DSA practice on Leetcode, GfG
 
 ---
 
@@ -74,11 +73,11 @@ I'm a passionate IT Engineering student who loves building **digital solutions t
 
 | Area | Expertise |
 |------|-----------|
-| **Frontend Development** | React, Responsive Design, UI/UX |
+| **Frontend Development** | HTML, CSS, React, Responsive Design, UI/UX |
 | **Backend Skills** | Node.js, Express, REST APIs |
-| **Database Management** | MySQL, MongoDB, Database Design |
+| **Database Management** | MySQL, MongoDB, Database Design ,Firebase |
 | **Problem Solving** | DSA, Algorithm Optimization |
-| **Tools & Technologies** | Git, VS Code, Figma, Postman |
+| **Tools & Technologies** | Git, VS Code, Figma |
 
 ---
 
@@ -88,7 +87,7 @@ I'm a passionate IT Engineering student who loves building **digital solutions t
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://mithra-j-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithra-j)
-[![Email](https://img.shields.io/badge/📧_Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithra.j@example.com)
+[![Email](https://img.shields.io/badge/📧_Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithraacct@gmail.com)
 
 </div>
 
