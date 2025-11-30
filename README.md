@@ -1,88 +1,103 @@
 <div align="center">
 
 # ✨ Hey, I'm **Mithra**  
-### 💻 IT Student • Web Developer • AI & Data Enthusiast  
+### 💻 IT Student • Full Stack Developer • AI Enthusiast  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true" width="55%"/>
-
-</div>
-
----
-
-## 🌟 About Me  
-I'm an IT engineering student who loves building **simple, clean, and useful** digital experiences.  
-I enjoy experimenting with web development, AI/ML, dashboards, and automation tools.  
-My work blends creativity, problem-solving, and consistency.
-
-✨ I believe in *"learning by building"* — small projects, small steps, every day.
-
----
-
-## 🚀 What I’m Doing Right Now  
-- Sharpening **MERN stack** development  
-- Solving SQL + DSA challenges on LeetCode  
-- Exploring **AI/ML fundamentals**  
-- Creating dashboards using **Power BI / Tableau**  
-- Experimenting with **Chrome extensions** & micro-tools  
-
----
-
-## 🧩 Strengths  
-- Clean UI design sense  
-- Fast learner & self-taught builder  
-- Strong fundamentals in DBMS, SQL, Java  
-- Consistent problem-solver  
-- Able to turn ideas → working projects quickly  
-
----
-
-## 🛠️ Tech Stack  
-
-<div align="center">
-
-### **Languages**
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
-
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### **Database**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
-
----
-
-## 📊 Stats & Activity  
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mithra-J&theme=midnight-purple&hide_border=true" width="55%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithra-J&layout=compact&theme=midnight-purple&hide_border=true" width="40%"/>
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate IT Engineering student who loves building **digital solutions that make life easier**. I specialize in creating beautiful, functional web applications while exploring the fascinating world of AI and data.
+
+> **"Code with purpose, design with passion"** – Turning complex problems into elegant solutions
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,html,css" />
+
+### **Databases & Tools**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,postman" />
+
+### **Currently Exploring**
+<img src="https://skillicons.dev/icons?i=tailwind,aws,docker,redux" />
 
 </div>
 
 ---
 
-## 🎨 What I Like Building  
-- Beautiful, minimal web interfaces  
-- AI-powered mini tools  
-- Dashboards that tell a story  
-- Chrome extensions that boost productivity  
-- Small but impactful real-world utilities  
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithra-J&layout=compact&theme=midnight-purple&hide_border=true" width="45%"/>
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithra-J&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+## 🎯 Current Focus
+
+- 🔭 **Full Stack Development** - Mastering MERN stack
+- 🧠 **AI/ML Projects** - Building intelligent applications  
+- 📊 **Data Visualization** - Creating insightful dashboards
+- ⚡ **Browser Extensions** - Developing productivity tools
+- 💡 **Problem Solving** - Daily DSA practice
+
+---
+
+## 🌟 Featured Projects
+
+### 🎨 **Portfolio Website** 
+**Modern responsive portfolio** • [Live Demo](https://mithra-j-portfolio.netlify.app/)
+- Built with React.js & modern CSS
+- Smooth animations and responsive design
+- Project showcase with interactive elements
+
+### 🔧 **More Projects Coming Soon...**
+*Working on exciting new projects in AI and web development*
+
+---
+
+## 📊 My Strengths
+
+| Area | Expertise |
+|------|-----------|
+| **Frontend Development** | React, Responsive Design, UI/UX |
+| **Backend Skills** | Node.js, Express, REST APIs |
+| **Database Management** | MySQL, MongoDB, Database Design |
+| **Problem Solving** | DSA, Algorithm Optimization |
+| **Tools & Technologies** | Git, VS Code, Figma, Postman |
+
+---
+
+## 📫 Let's Connect
+
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithra-j)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://mithu06portfolio.neocities.org/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://mithra-j-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithra-j)
+[![Email](https://img.shields.io/badge/📧_Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithra.j@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 *"Building digital experiences that inspire and solve real problems"*
+
+![Visitors](https://komarev.com/ghpvc/?username=Mithra-J&color=8A2BE2&style=flat-square)
 
 </div>
