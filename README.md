@@ -5,8 +5,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true)
-
 
 </div>
 
