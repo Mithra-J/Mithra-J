@@ -4,7 +4,7 @@
 ### 💻 IT Student • Full Stack Developer • AI Enthusiast  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true" width="55%"/>
-<img src="https://streak-stats.demolab.com?user=Mithra-J&theme=midnight-purple&hide_border=true" width="55%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Mithra-J&theme=midnight-purple&hide_border=true)
 
 </div>
 
