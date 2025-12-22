@@ -5,7 +5,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithra-J&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true)
 
 
 </div>
