@@ -3,7 +3,6 @@
 # ✨ Hey, I'm **Mithra**  
 ### 💻 IT Student • Full Stack Developer • AI Enthusiast  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithra-J&show_icons=true&theme=midnight-purple&hide_border=true)
 
 
 </div>
@@ -26,10 +25,9 @@ I'm a passionate IT Engineering student who loves building **digital solutions t
 <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,html,css,c" />
 
 ### **Databases & Tools**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,github,vscode,figma,firebase" />
 
-### **Currently Exploring**
-<img src="https://skillicons.dev/icons?i=tailwind,aws" />
+
 
 </div>
 
@@ -39,7 +37,6 @@ I'm a passionate IT Engineering student who loves building **digital solutions t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithra-J&layout=compact&theme=midnight-purple&hide_border=true" width="45%"/>
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithra-J&theme=react-dark&hide_border=true&area=true)
 
@@ -53,19 +50,6 @@ I'm a passionate IT Engineering student who loves building **digital solutions t
 - 🧠 **AI/ML Projects** - Building intelligent applications  
 - 📊 **Data Visualization** - Creating insightful dashboards
 - 💡 **Problem Solving** - Daily DSA practice on Leetcode, GfG
-
----
-
-## 🌟 Featured Projects
-
-### 🎨 **Portfolio Website** 
-**Modern responsive portfolio** • [Live Demo](https://mithra-j-portfolio.netlify.app/)
-- Built with React.js & modern CSS
-- Smooth animations and responsive design
-- Project showcase with interactive elements
-
-### 🔧 **More Projects Coming Soon...**
-*Working on exciting new projects in AI and web development*
 
 ---
 
